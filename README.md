@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎫 Hello guys, please go easy with me...🥺<br>🌱 I’m currently learning Javascript & Typescript<br>🎮 Currently liking the Persona franchise, when I tried to finish 1 of the games<br>🎧 I Love Hoshimachi Suisei 🌠
+🎫 Hello guys, please go easy with me...🥺<br>🌱 I’m currently learning Javascript & Typescript<br>🎮 Currently liking the Persona franchise, after I tried to finish 1 of the games<br>🎧 I Love Hoshimachi Suisei 🌠
 
 
 ## 🌐 Socials:
