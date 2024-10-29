@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎫 Hello guys, please go easy with me...🥺<br>🌱 I’m currently learning Javascript & Typescript<br>🎮 Currently liking the Persona franchise, after I tried to finish 1 of the games<br>🎧 Please, listen to Hoshimachi Suisei's songs 🌠<br>
+🎫 Hello guys, please go easy with me...🥺<br>🌱 I’m currently learning Javascript & Typescript<br>🎮 Persona, Honkai Star Rail, or any Steam Games<br>🎧 Please, listen to Hoshimachi Suisei's songs 🌠<br>
 ![suisei](https://media.tenor.com/PyNliHCBh4IAAAAM/hoshimachi-suisei-hosimati-suisei.gif)
 
 ## 🌐 Socials:
