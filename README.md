@@ -1,3 +1,5 @@
+<center>
+
 # 🎫 About Me:
 💫 Hello guys, please go easy with me...🥺<br>👨🏽‍💻 I’m currently learning Javascript, Typescript & Python<br>🎮 Persona, Honkai Star Rail, or any Steam Games<br>🎧 Please, listen to Hoshimachi Suisei's songs 🌠<br>
 ![suisei](https://media.tenor.com/PyNliHCBh4IAAAAM/hoshimachi-suisei-hosimati-suisei.gif)<br> <br>
@@ -8,3 +10,5 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tzrfabian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</center>
