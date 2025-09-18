@@ -7,4 +7,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiantenzara/) 
 
 # 📊 GitHub Stats:
-![](https://kasroudra-stats-card.onrender.com/lang?user=tzrfabian&layout=compact&type=donut&theme=dark)
+<img src="https://kasroudra-stats-card.onrender.com/lang?user=tzrfabian&layout=compact&type=donut&theme=dark" width=350px>
