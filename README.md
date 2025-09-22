@@ -7,4 +7,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiantenzara/) 
 
 # 📊 GitHub Stats:
-<img src="https://kasroudra-stats-card.onrender.com/lang?user=tzrfabian&layout=compact&type=donut&theme=dark" width=350px>
+![tzrfabian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tzrfabian&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![tzrfabian's Stats](https://github-readme-stats.vercel.app/api?username=tzrfabian&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
